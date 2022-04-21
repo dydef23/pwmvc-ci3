@@ -1,6 +1,6 @@
 <div class="container m-5 p-5">
     <h1 class="text-center mb-5"><u>Our Menu</u></h1>
-    <div class="row ">
+    <div class="row">
         <div class="col-sm-4">
             <div class="card " style="width: 20rem;">
                 <img src="<?php echo base_url(); ?>public/img/menu1.jpg" class="card-img-top" alt="...">

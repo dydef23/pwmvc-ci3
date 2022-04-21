@@ -1,5 +1,5 @@
 <div class="container m-5 pt-5">
-    <h1 class="text-center mb-5"><u>Our Recipe</u></h1>
+    <h1 class="text-center mb-5">Our Recipe</h1>
     <div class="row ">
         <div class="col-sm-4">
             <div class="card">
